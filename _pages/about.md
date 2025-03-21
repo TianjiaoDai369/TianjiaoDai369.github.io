@@ -17,30 +17,189 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I work as an asscociate professor in Huazhong university of science and technology. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=ELLYAXQAAAAJ](https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>490+</span></strong>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Tianjiao. 
+- *2022.02*: &nbsp;🎉🎉 Tianjiao. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Energy efficient design of an SST-flowline system using a coupled dynamic analysis approach](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:Se3iqnhoufwC)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tianjiao Dai**,Jiaxuan Zhang,Yucong Ma,Xing Yihan*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+**Ocean Engineering, 2024**
+
+- We 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Application of a data-driven approach for maximum fatigue damage prediction of an unbonded flexible riser](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:roLk4NBRz8UC)
+
+**Tianjiao Dai**, Jiaxuan Zhang, Chao Ren*, Yihan Xing, Svein Sævik, Naiquan Ye, Xing Jin, Jun Wu
+
+**Ocean Engineering, 2024**
+
+- We
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Experimental and numerical study on dynamic stress and curvature in the steel tube umbilical](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:W7OEmFMy1HYC)
+
+**Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
+**Marine Structure, 2020**
+
+- We 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An anisotropic friction model in non-bonded flexible risers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:WF5omc3nYNoC)
+
+**Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
+**Marine Structure, 2018**
+
+- We 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Friction models for evaluating dynamic stresses in non-bonded flexible risers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:IjCSPb-OGe4C)
+
+**Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
+**Marine Structure, 2017**
+
+- We   
+</div>
+</div>
+
+# 📝 Other Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An efficient fatigue analysis for the nonbonded flexible riser](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:_FxGoFyzp5QC)
+
+Li Pengjie, **Dai Tianjiao**, Jin Xing, Dong Leilei, Liu Shuaiqi, Yang Shuo, Xiang Xianbo, Kang Hooi-Siang.
+
+**Ship and offshore structures 1-16, 2021.10, Impact factor, 1.977, 2021**
+
+- We 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Nonlinear Slow-varying Dynamics-assisted Temporal Graph Transformer Network for Remaining Useful Life Prediction](https://www.sciencedirect.com/science/article/pii/S0951832024002369)
+
+Zhan Gao, Weixiong Jiang, Jun Wu*, **Tianjiao Dai**
+
+**Reliability Engineering & System Safety, 248(5):110162. 2024**
+
+- We 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The effect of stick stiffness in friction models on the bending behavior in flexible risers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:eQOLeE2rZwMC)
+
+**Dai, Tianjiao**; Ye, Naiquan.; Sævik, Svein. 
+**OMAE, - International Conference on Ocean, Offshore & Arctic Engineering, 2017**
+
+- We 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Comparison study of umbilicals' curvature based on full scale tests and numerical models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:Tyk-4Ss8FVUC)
+
+**Dai, Tianjiao**;  Sævik, Svein; Ye, Naiquan.
+**ISOPE - International Offshore and Polar Engineering Conference, 2016**
+
+- We 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Effect of Surface Contact Stiffness on Stress Analysis of Umbilicals](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:Y0pCki6q_DkC)
+
+Wang, Howard; Ye, Naiquan; **Dai, Tianjiao**; Sævik, Svein.
+**ISOPE - International Offshore and Polar Engineering Conference, 2015**
+
+- We 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multilayer Fused Correntropy Reprsenstation for Fault Diagnosis of Mechanical Equipment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:5nxA0vEk-isC)
+
+Deng Qi, Guanhui Zhao, Weixiong Jiang, Weixiong Jiang,Jun Wu, **Tianjiao Dai**
+
+**Sensors 24(18):6142, 2024**
+
+- We 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multiscale Spatiotemporal Attention Network for Remaining Useful Life Prediction of Mechanical Systems](https://ieeexplore.ieee.org/document/10824693)
+
+Zhan Gao; Weixiong Jiang; Jun Wu; **Tianjiao Dai**
+
+**IEEE Sensors Journal Volume:25 Issue:4, 2024**
+
+- We 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Self-adaptive Single and Simultaneous Fault Diagnosis for Rotating Machinery via Redefined Signal Quality Indicator and Parallel Ensemble Network](https://www.sciencedirect.com/science/article/pii/S1568494625000481?via%3Dihub)
+
+Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
+
+**Applied soft computing 170:112737, 2024**
+
+- We 
+</div>
+</div>
+
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
