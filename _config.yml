@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianjiao Dai"
-description              : "This is my CV "
+description              : "Associate professor "
 repository               : "TianjiaoDai369/TianjiaoDai369.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=ELLYAXQAAAAJ"
   email            : "tianjiao_dai@163.com"
   researchgate     : "https://www.researchgate.net/profile/Tianjiao-Dai-6"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
