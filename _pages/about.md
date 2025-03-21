@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c5ee2e28-3223-406e-a87c-c8ac998143ef)![image](https://github.com/user-attachments/assets/c3cea0b3-82ef-48d0-8357-9a36f55b0125)---
+![image](https://github.com/user-attachments/assets/31bdde85-e498-4a60-99a3-3997e2741e42)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,18 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 I work as an asscociate professor in Huazhong university of science and technology. 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=ELLYAXQAAAAJ](https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>490+</span></strong>.
 
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Tianjiao. 
-- *2022.02*: &nbsp;🎉🎉 Tianjiao. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,19 +42,17 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-
-
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2011.06 - 2013.06*, PhD, Norwegian University of Science and Technology. 
-- *2011.06 - 2013.06*, Master of science, Norwegian University of Science and Technology. 
-- *2007.08 - 2011.06*, Bachelor, Harbin Engineering University. 
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Works
-- *2019.01 - present*, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
-- *2013.08 - 2014.07*, [IKM Ocean design AS](https://www.ikm.com/ikm-ocean-design/), China.
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
