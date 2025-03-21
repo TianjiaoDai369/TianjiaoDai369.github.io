@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/c3cea0b3-82ef-48d0-8357-9a36f55b0125)---
 permalink: /
 title: ""
 excerpt: ""
@@ -28,18 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Application of a data-driven approach for maximum fatigue damage prediction of an unbonded flexible riser](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:roLk4NBRz8UC)
-
-**Tianjiao Dai**, Jiaxuan Zhang, Chao Ren*, Yihan Xing, Svein Sævik, Naiquan Ye, Xing Jin, Jun Wu
-
-**Ocean Engineering, 2024**
-
-- We analyze the contribution of camera image for depth completion and propose a better unguided depth completion framework.  
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,7 +44,54 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Application of a data-driven approach for maximum fatigue damage prediction of an unbonded flexible riser](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:roLk4NBRz8UC)
+
+**Tianjiao Dai**, Jiaxuan Zhang, Chao Ren*, Yihan Xing, Svein Sævik, Naiquan Ye, Xing Jin, Jun Wu
+
+**Ocean Engineering, 2024**
+
+- We analyze the contribution of camera image for depth completion and propose a better unguided depth completion framework.  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Experimental and numerical study on dynamic stress and curvature in the steel tube umbilical](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:W7OEmFMy1HYC)
+
+**Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
+**Marine Structure, 2020**
+
+- We analyze the contribution of camera image for depth completion and propose a better unguided depth completion framework.  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An anisotropic friction model in non-bonded flexible risers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:WF5omc3nYNoC)
+
+**Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
+**Marine Structure, 2018**
+
+- We analyze the contribution of camera image for depth completion and propose a better unguided depth completion framework.  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Friction models for evaluating dynamic stresses in non-bonded flexible risers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:IjCSPb-OGe4C)
+
+**Tianjiao Dai**,Sævik, Svein; Ye, Naiquan
+**Marine Structure, 2017**
+
+- We analyze the contribution of camera image for depth completion and propose a better unguided depth completion framework.  
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -66,9 +102,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2011.06 - 2013.06*, Master of science, Norwegian University of Science and Technology. 
 - *2007.08 - 2011.06*, Bachelor, Harbin Engineering University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Works
 - *2019.01 - present*, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
