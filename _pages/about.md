@@ -21,26 +21,25 @@ I work as an asscociate professor in Huazhong university of science and technolo
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=ELLYAXQAAAAJ](https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>490+</span></strong>.
 
-https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Tianjiao. 
+- *2022.02*: &nbsp;🎉🎉 Tianjiao. 
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Application of a data-driven approach for maximum fatigue damage prediction of an unbonded flexible riser](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:roLk4NBRz8UC))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tianjiao Dai**, Jiaxuan Zhang, Chao Ren*, Yihan Xing, Svein Sævik, Naiquan Ye, Xing Jin, Jun Wu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Ocean Engineering, 2024**
+
+- We analyze the contribution of camera image for depth completion and propose a better unguided depth completion framework.  
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
