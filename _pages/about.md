@@ -19,7 +19,7 @@ redirect_from:
 
 I work as an asscociate professor in Huazhong university of science and technology. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=ELLYAXQAAAAJ](https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>490+</span></strong>.
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=ELLYAXQAAAAJ](https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>100+</span></strong>.
 
 
 # 🔥 News
@@ -202,16 +202,15 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* . 
+- *2021.09* . 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2011.06 - 2013.06*, PhD, [Norwegian University of Science and Technology](https://www.ntnu.edu), Supervisor [Svein Sævik](https://www.ntnu.edu/employees/svein.savik), [Naiquan Ye](https://www.sintef.no/en/all-employees/employee/naiquan.ye/)
+- *2011.06 - 2013.06*, Master of science,[Norwegian University of Science and Technology](https://www.ntnu.edu),Supervisor [Svein Sævik](https://www.ntnu.edu/employees/svein.savik)
+- *2007.08 - 2011.06*, Bachelor, [Harbin Engineering University](http://www.hrbeu.edu.cn)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Works
+- *2019.01 - present*, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
+- *2013.08 - 2014.07*, [IKM Ocean design AS](https://www.ikm.com/ikm-ocean-design/), China.
