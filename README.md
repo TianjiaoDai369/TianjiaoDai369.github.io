@@ -3,7 +3,7 @@
 Dr. Tianjiao Dai Homepage
 </h1>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+<p align="center">Welcome to Know me</p>
 
 My homepage is here:
-- [Personal Homepage of the author](https://TianjiaoDai369.github.io/)
+- [Tianjiao Dai homepage](https://TianjiaoDai369.github.io/)
