@@ -28,10 +28,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Application of a data-driven approach for maximum fatigue damage prediction of an unbonded flexible riser](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:roLk4NBRz8UC))
+[Application of a data-driven approach for maximum fatigue damage prediction of an unbonded flexible riser](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:roLk4NBRz8UC)
 
 **Tianjiao Dai**, Jiaxuan Zhang, Chao Ren*, Yihan Xing, Svein Sævik, Naiquan Ye, Xing Jin, Jun Wu
 
@@ -40,6 +40,22 @@ My research interest includes neural machine translation and computer vision. I 
 - We analyze the contribution of camera image for depth completion and propose a better unguided depth completion framework.  
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Energy efficient design of an SST-flowline system using a coupled dynamic analysis approach](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:Se3iqnhoufwC)
+
+**Tianjiao Dai**,Jiaxuan Zhang,Yucong Ma,Xing Yihan*
+
+
+**Ocean Engineering, 2024**
+
+- We analyze the contribution of camera image for depth completion and propose a better unguided depth completion framework.  
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
