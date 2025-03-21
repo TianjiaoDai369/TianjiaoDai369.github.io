@@ -217,5 +217,5 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 
 
 # 💻 Works
-- *2019.01 - present*, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), China.
-- *2013.08 - 2014.07*, [IKM Ocean design AS](https://www.ikm.com/ikm-ocean-design/), China.
+- *2019.01 - present*, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China.
+- *2013.08 - 2014.07*, [IKM Ocean design AS](https://www.ikm.com/ikm-ocean-design/), Trondheim, Norway.
