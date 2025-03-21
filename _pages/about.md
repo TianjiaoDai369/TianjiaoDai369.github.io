@@ -17,11 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work as an asscociate professor in Huazhong university of science and technology. 
+- I work as an asscociate professor in Huazhong university of science and technology since 2019. I have focused on the structural analysis, dynamic analysis and fatigue analysis of subsea riser, umbilical and flowlines (SURF) for 10 years. My experience in engineering work (IKM Ocean Design AS, Norway, 2013-2014), PhD study in NTNU (Norway, 2014-2018) and research work in HUST (a Top 10 university in China, 2019-present) afforded me a well-rounded skill set including sound theoretical foundation, numerical analysis experience and precious experimental knowledge about the structural analysis of SURF. More than 10 papers were published at top international journal and conferences with total <a href='[https://scholar.google.com/citations?user=ELLYAXQAAAAJ](https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>100+</span></strong>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 10 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=ELLYAXQAAAAJ](https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>100+</span></strong>.
+- Util now, I Win projects from research council, industry and governments by tendering (2019-present). 
+- I Run a research team involving 10+ bachelor and master students every year. Until now, guidance for 11 bachelors and two master theses has been completed.
+- I am Capable of programing (Python, MatLab and FORTRAN) to simplify and speed up workflow.
+- I am Proficient in BFLEX2010, UFLEX2D, SIMLA, OrcaFlex for performing global and local FE modeling. Familiar with
+ABAQUS and ANSYS.
+- I have International cooperation with University of Stavanger, NTNU and SINTEF OCEAN
 
-This is [my CV in Chinese](https://tianjiaodai369.github.io/ChineseHomepage.github.io/)
+This is [my CV in Chinese](https://tianjiaodai369.github.io/ChineseHomepage.github.io/) and welcome to know me. 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Tianjiao. 
 - *2022.02*: &nbsp;🎉🎉 Tianjiao. 
