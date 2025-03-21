@@ -19,7 +19,7 @@ redirect_from:
 
 I work as an asscociate professor in Huazhong university of science and technology. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=ELLYAXQAAAAJ](https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>100+</span></strong>.
+My research interest includes neural machine translation and computer vision. I have published more than 10 papers at the top international AI conferences with total <a href='[https://scholar.google.com/citations?user=ELLYAXQAAAAJ](https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>100+</span></strong>.
 
 
 # 🔥 News
