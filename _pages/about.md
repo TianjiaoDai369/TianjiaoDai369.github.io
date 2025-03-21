@@ -217,5 +217,6 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 
 
 # 💻 Works
-- *2019.01 - present*, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China.
-- *2013.08 - 2014.07*, [IKM Ocean design AS](https://www.ikm.com/ikm-ocean-design/), Trondheim, Norway.
+- *2019.01 - present*, Associate professor, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China.
+- *2019.01 - 2025.02*, Assisstant professor, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China.
+- *2013.08 - 2014.07*, Subsea engineer, [IKM Ocean design AS](https://www.ikm.com/ikm-ocean-design/), Trondheim, Norway.
