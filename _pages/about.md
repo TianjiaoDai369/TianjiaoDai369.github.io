@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/10a3fc2a-3dca-49f8-a7a1-7abd0d2fa702)---
 permalink: /
 title: ""
 excerpt: ""
@@ -29,6 +29,71 @@ redirect_from:
 - I have International cooperation with University of Stavanger, NTNU and SINTEF OCEAN.
 
 This is [my CV in Chinese](https://tianjiaodai369.github.io/ChineseHomepage.github.io/) and welcome to know me. 
+
+
+# 💻 Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/IKM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Project 1: Peregrino Phase II FEED SURF
+Project 2 Johan Sverdrup Infield Pipeline Concept Study
+Project 3: GRD Project FEED Study & Kvitebjørn Flow Study
+
+**[IKM Ocean design AS](https://www.ikm.com/ikm-ocean-design/), 2013.08 - 2014.07**
+
+- Contribute in pipeline snaking route design and solved the post-buckling deformation controlled in an acceptable range.
+
+- Contribute in investigating the ocean current effect on the lateral displacement and lateral buckling of the steel pipe on bottom.
+
+- Contribute in establishing the complex full-scale trawling model 
+- Comprehensively investigate the impact and pull-over phase effect on the global response of pipeline
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/UmbilicalJIP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Project: Dynamic umbilical JIP
+
+**[NTNU](https://www.ntnu.edu),SINTEF Ocean](https://www.sintef.no/globalassets/project/oilandgas/pdf/uflex.pdf), 2014.08 - 2018.07**
+
+- Practical skills of performing full scale test of umbilical under combined tension and bending loads. 
+- Contribute in programming to deal with test measurement for understanding the dynamic stress behavior of helical components and speed up the workflow.
+- Develop new numerical modeling methodology of umbilical’s cross section and improve the dynamic stress accuracy. 
+- Present latest numerical analysis results and improvements in developing FE software (Bflex and Uflex) in important JIP meetings and software user meetings. 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HUST.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Project: Dynamic umbilical JIP
+
+**[NTNU](https://www.ntnu.edu),SINTEF Ocean](https://www.sintef.no/globalassets/project/oilandgas/pdf/uflex.pdf), 2014.08 - 2018.07**
+
+
+Granted Project 6: Nonbonded flexible riser's structural failure analysis (industrial sponsored, China) (2025-2026)
+Granted Project 5: Light dynamic power cable design (research concil, China) oil and gas field (Ministryo f Natural Resources of the People's Republic of China) (2025-2027)
+Granted Project 4 : Fatigue mechanism study of dynamic umbilical applied in oil & gas industry (National Natural Science Foundation of China (NSFC), 2021-2023) 
+- Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
+Granted Project 3: Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST, 2019-2021) 
+- Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
+Granted Project 2: Dynamic response analysis of subsea power cable applied in oil & gas and wind turbine industry (Ministry of Science and Technology of the People’s republic of China, 2021-2022)
+- Solve the power cable response under current load in a stochastic way.
+- Propose a new global configuration design for reducing the power cable response in shallow water. 
+Granted Project 1: Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) oil and gas field (industry sponsored) (2021-2022)
+- Perform global response analysis of flexible pipe under dynamic motion of FPSO and combined wave and current load conditions.
+- Develop a new method for the pipe fatigue life assessment when the annulus layer is wet or fully fulfilled with fluid, resulting in significant numerical analysis computation time saving.
+
+
+
+</div>
+</div>
+
+
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication4.jpg' alt="sym" width="100%"></div></div>
@@ -208,12 +273,6 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 </div>
 </div>
 
-
-
-
-# 🎖 Honors and Awards
-- *2021.10* . 
-- *2021.09* . 
 
 # 📖 Educations
 - *2011.06 - 2013.06*, PhD, [Norwegian University of Science and Technology](https://www.ntnu.edu), Supervisor [Svein Sævik](https://www.ntnu.edu/employees/svein.savik), [Naiquan Ye](https://www.sintef.no/en/all-employees/employee/naiquan.ye/)
