@@ -112,7 +112,7 @@ This is [my CV in Chinese](https://tianjiaodai369.github.io/ChineseHomepage.gith
 
 # 📝 Other Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AnEfficeintMethod.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An efficient fatigue analysis for the nonbonded flexible riser](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:_FxGoFyzp5QC)
@@ -124,7 +124,7 @@ Li Pengjie, **Dai Tianjiao**, Jin Xing, Dong Leilei, Liu Shuaiqi, Yang Shuo, Xia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Nonlinear.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Nonlinear Slow-varying Dynamics-assisted Temporal Graph Transformer Network for Remaining Useful Life Prediction](https://www.sciencedirect.com/science/article/pii/S0951832024002369)
@@ -136,7 +136,7 @@ Zhan Gao, Weixiong Jiang, Jun Wu*, **Tianjiao Dai**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/StickStiffness.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The effect of stick stiffness in friction models on the bending behavior in flexible risers](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:eQOLeE2rZwMC)
@@ -148,7 +148,7 @@ Zhan Gao, Weixiong Jiang, Jun Wu*, **Tianjiao Dai**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Comparison.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comparison study of umbilicals' curvature based on full scale tests and numerical models](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:Tyk-4Ss8FVUC)
@@ -159,7 +159,7 @@ Zhan Gao, Weixiong Jiang, Jun Wu*, **Tianjiao Dai**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/EffectContact.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effect of Surface Contact Stiffness on Stress Analysis of Umbilicals](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:Y0pCki6q_DkC)
@@ -171,7 +171,7 @@ Wang, Howard; Ye, Naiquan; **Dai, Tianjiao**; Sævik, Svein.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MultiFused.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multilayer Fused Correntropy Reprsenstation for Fault Diagnosis of Mechanical Equipment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ELLYAXQAAAAJ&citation_for_view=ELLYAXQAAAAJ:5nxA0vEk-isC)
@@ -184,7 +184,7 @@ Deng Qi, Guanhui Zhao, Weixiong Jiang, Weixiong Jiang,Jun Wu, **Tianjiao Dai**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Multiscale.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multiscale Spatiotemporal Attention Network for Remaining Useful Life Prediction of Mechanical Systems](https://ieeexplore.ieee.org/document/10824693)
@@ -196,7 +196,7 @@ Zhan Gao; Weixiong Jiang; Jun Wu; **Tianjiao Dai**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication5.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SelfAdaptive.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-adaptive Single and Simultaneous Fault Diagnosis for Rotating Machinery via Redefined Signal Quality Indicator and Parallel Ensemble Network](https://www.sciencedirect.com/science/article/pii/S1568494625000481?via%3Dihub)
