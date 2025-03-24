@@ -70,16 +70,16 @@ Project: Dynamic umbilical JIP
 <div class='paper-box-text' markdown="1">
 
 
-6. Granted Project 6: Nonbonded flexible riser's structural failure analysis (industrial sponsored, China) (2025-2026)
-5. Granted Project 5: Light dynamic power cable design (research concil, China) oil and gas field (Ministryo f Natural Resources of the People's Republic of China) (2025-2027)
-4. Granted Project 4 : Fatigue mechanism study of dynamic umbilical applied in oil & gas industry (National Natural Science Foundation of China (NSFC), 2021-2023) 
+1. Granted Project 1: Nonbonded flexible riser's structural failure analysis (industrial sponsored, China) (2025-2026)
+2. Granted Project 2: Light dynamic power cable design (research concil, China) oil and gas field (Ministryo f Natural Resources of the People's Republic of China) (2025-2027)
+3. Granted Project 3 : Fatigue mechanism study of dynamic umbilical applied in oil & gas industry (National Natural Science Foundation of China (NSFC), 2021-2023) 
 - Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
-3. Granted Project 3: Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST, 2019-2021) 
+4. Granted Project 4: Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST, 2019-2021) 
 - Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
-2. Granted Project 2: Dynamic response analysis of subsea power cable applied in oil & gas and wind turbine industry (Ministry of Science and Technology of the People’s republic of China, 2021-2022)
+5. Granted Project 5: Dynamic response analysis of subsea power cable applied in oil & gas and wind turbine industry (Ministry of Science and Technology of the People’s republic of China, 2021-2022)
 - Solve the power cable response under current load in a stochastic way.
 - Propose a new global configuration design for reducing the power cable response in shallow water. 
-1. Granted Project 1: Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) oil and gas field (industry sponsored) (2021-2022)
+5. Granted Project 5: Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) oil and gas field (industry sponsored) (2021-2022)
 - Perform global response analysis of flexible pipe under dynamic motion of FPSO and combined wave and current load conditions.
 - Develop a new method for the pipe fatigue life assessment when the annulus layer is wet or fully fulfilled with fluid, resulting in significant numerical analysis computation time saving.
 
