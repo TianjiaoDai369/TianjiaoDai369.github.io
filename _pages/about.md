@@ -69,17 +69,18 @@ Project: Dynamic umbilical JIP
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HUST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+During working in [Huazhong university of science and technology](https://www.hust.edu.cn), 6 projects have been granted as follows: 
 
-1. Granted Project 1: Nonbonded flexible riser's structural failure analysis (industrial sponsored, China) (2025-2026)
-2. Granted Project 2: Light dynamic power cable design (research concil, China) oil and gas field (Ministryo f Natural Resources of the People's Republic of China) (2025-2027)
-3. Granted Project 3 : Fatigue mechanism study of dynamic umbilical applied in oil & gas industry (National Natural Science Foundation of China (NSFC), 2021-2023) 
+1. Nonbonded flexible riser's structural failure analysis (industrial sponsored, China) (2025-2026)
+2. Light dynamic power cable design (research concil, China) oil and gas field (Ministryo f Natural Resources of the People's Republic of China) (2025-2027)
+3. Fatigue mechanism study of dynamic umbilical applied in oil & gas industry (National Natural Science Foundation of China (NSFC), 2021-2023) 
 - Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
-4. Granted Project 4: Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST, 2019-2021) 
+4. Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST, 2019-2021) 
 - Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
-5. Granted Project 5: Dynamic response analysis of subsea power cable applied in oil & gas and wind turbine industry (Ministry of Science and Technology of the People’s republic of China, 2021-2022)
+5. Dynamic response analysis of subsea power cable applied in oil & gas and wind turbine industry (Ministry of Science and Technology of the People’s republic of China, 2021-2022)
 - Solve the power cable response under current load in a stochastic way.
 - Propose a new global configuration design for reducing the power cable response in shallow water. 
-5. Granted Project 5: Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) oil and gas field (industry sponsored) (2021-2022)
+6. Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) oil and gas field (industry sponsored) (2021-2022)
 - Perform global response analysis of flexible pipe under dynamic motion of FPSO and combined wave and current load conditions.
 - Develop a new method for the pipe fatigue life assessment when the annulus layer is wet or fully fulfilled with fluid, resulting in significant numerical analysis computation time saving.
 
