@@ -72,7 +72,7 @@ Project: Dynamic umbilical JIP
 During working in [Huazhong university of science and technology](https://www.hust.edu.cn), 6 projects have been granted as follows: 
 
 1. Nonbonded flexible riser's structural failure analysis (industrial sponsored, China) (2025-2026)
-2. Light dynamic power cable design (research concil, China) oil and gas field (Ministryo f Natural Resources of the People's Republic of China) (2025-2027)
+2. Design and Analysis of Lightweight Dynamic Cables for Deepwater Applications (research concil, China) oil and gas field (Ministryo f Natural Resources of the People's Republic of China) (2025-2027)
 3. Fatigue mechanism study of dynamic umbilical applied in oil & gas industry (National Natural Science Foundation of China (NSFC), 2021-2023) 
 - Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
 4. Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST, 2019-2021) 
