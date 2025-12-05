@@ -97,13 +97,8 @@ During working in [Huazhong university of science and technology](https://www.hu
 
 **Tianjiao Dai**, Shuo Yang, Xing Jin*, Svein Sævik, Jiaxuan Zhang, Jun Wu, Naiquan Ye
 
-**Marine Structures, 2026**
+**Marine Structures, Volume 106, 30 January 2026, 103960**
 
-- The AK-MDAmax approach efficiently predicts long-term fatigue damage of unbonded flexible risers with sufficient accuracy while accounting for all 400 sea states.
-
-- The approach accurately identifies the maximum fatigue damage location across different assessment scales, with errors in long-term fatigue damage predictions ranging from 0.35% to 0.89%.
-
-- Compared to traditional numerical analysis, the AK-MDAmax approach significantly improves computational efficiency by reducing the required sea states from 400 to 15, achieving a 27-fold enhancement in fatigue assessment efficiency.
 </div>
 </div>
 
