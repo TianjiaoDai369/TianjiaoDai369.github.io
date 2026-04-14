@@ -27,6 +27,7 @@ redirect_from:
 - I am Capable of programing (Python, MatLab and FORTRAN) to simplify and speed up workflow.
 - I am Proficient in BFLEX2010, UFLEX2D, SIMLA, OrcaFlex for performing global and local FE modeling. Familiar with ABAQUS and ANSYS.
 - I have International cooperation with University of Stavanger, NTNU and SINTEF OCEAN.
+- I also have developed strong and close collaborations with Chinese universities and industrial partners.
 
 This is [my CV in Chinese](https://tianjiaodai369.github.io/ChineseHomepage.github.io/) and welcome to know me. 
 
@@ -69,21 +70,33 @@ Project: Dynamic umbilical JIP
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HUST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-During working in [Huazhong university of science and technology](https://www.hust.edu.cn), 6 projects have been granted as follows: 
+During working in [Huazhong university of science and technology](https://www.hust.edu.cn), 9 projects have been granted as follows: 
 
-7. Research on Key Technologies for Design Analysis and Testing Evaluation of Deepwater Bundled Pipes and Cables, 
-6. Nonbonded flexible riser's structural failure analysis (industrial sponsored, China) (2025-2026)
-5. Design and Analysis of Lightweight Dynamic Cables for Deepwater Applications (research concil, China) (Ministryo f Natural Resources of the People's Republic of China) (2025-2027)
-4. Fatigue mechanism study of dynamic umbilical applied in oil & gas industry (National Natural Science Foundation of China (NSFC), (2021-2023) 
+5 projects were supported by national levels competitive research grants：
+
+1. Research on Key Technologies for Design Analysis and Testing Evaluation of Deepwater Bundled Pipes and Cables, funded by National Key R&D Program of China from Ministry of Science and Technology of the People’s Republic of China, (2026-2028), 280W
+2. Design and Analysis of Lightweight Dynamic Cables for Deepwater Applications, funded by National Key R&D Program of China from Ministry of Science and Technology of the People’s Republic of China, (2025-2027), 50W
+3. Fatigue mechanism study of dynamic umbilical applied in oil & gas industry (National Natural Science Foundation of China (NSFC), (2021-2023), 24W
 - Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
-3. Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST, 2019-2021) 
-- Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
-2. Dynamic response analysis of subsea power cable applied in oil & gas and wind turbine industry (Ministry of Science and Technology of the People’s republic of China, 2021-2022)
+4. Dynamic response analysis of subsea power cable applied in oil & gas and wind turbine industry (Ministry of Science and Technology of the People’s republic of China）（2021-2022)， 10W
 - Solve the power cable response under current load in a stochastic way.
-- Propose a new global configuration design for reducing the power cable response in shallow water. 
-1. Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) oil and gas field (industry sponsored) (2021-2022)
+- Propose a new global configuration design for reducing the power cable response in shallow water.
+
+
+6 projects were supported by industry, city government or by state key laboratories at universities：
+
+1. Research and Application of Key Technologies for Subsea Wet-Mate Connectors and Bend Restrictors of Special Marine Cables (a Major Special Project of the Ningbo Municipal Science and Technology Bureau) (2022-2024）,20W
+2. Nonbonded flexible riser's structural failure analysis (China Offshore Engineering & Technology Co., Ltd, Shanghai, China) (2025-2026)，72W
+2. Power cable's structural analysis (State Grid Corporation of China）（2025-2026），30W
+3. Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST) (2019-2021) ,15W
+- Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
+4. Research on Fretting Wear in Cables for Wind Farms (State Key Laboratory of Hydraulic Engineering Intelligent Construction and Operation, Tianjin University) (2022-2025) , 6W
+5. Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) (2021-2022), 10W
 - Perform global response analysis of flexible pipe under dynamic motion of FPSO and combined wave and current load conditions.
 - Develop a new method for the pipe fatigue life assessment when the annulus layer is wet or fully fulfilled with fluid, resulting in significant numerical analysis computation time saving.
+6. Fatigue damage prediction of nonbonded flexible pipe applied in Sabah (Wudi Hizen Flexible Pipe Manufacturing Co., Ltd) （2022）,19W
+- Communicate with flexible pipe supplier and determine the project scope
+- Support clients with more flexible numerical methodologies, resulting in significant cost saving and boosting efficiency for the experimental verification of fatigue damage prediction
 
 
 </div>
@@ -102,9 +115,6 @@ During working in [Huazhong university of science and technology](https://www.hu
 
 </div>
 </div>
-
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication4.jpg' alt="sym" width="100%"></div></div>
@@ -292,6 +302,16 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 
 
 # 💻 Works
-- *2019.01 - present*, Associate professor, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China.
+- *2025.02 - present*, Associate professor, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China.
 - *2019.01 - 2025.02*, Assisstant professor, [Huazhong University of Science and Technology](https://english.hust.edu.cn/), Wuhan, China.
 - *2013.08 - 2014.07*, Subsea engineer, [IKM Ocean design AS](https://www.ikm.com/ikm-ocean-design/), Trondheim, Norway.
+
+# 🎓 Academic Service
+
+- 2026.03 - present Editorial board of Marine Structures
+- 2021.05 - present Committee Member of the Marine Technology and Equipment Committee, Chinese Society for Oceanography
+- 2025.08 - present Inaugural Woman Scientist, Chinese Society of Naval Architects and Marine Engineers (CSNAME)
+
+# 🧑‍🏫 Bachelor and master students
+
+
