@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 - I work as an asscociate professor in the school of Naval archtecture and ocean engineering, Huazhong university of science and technology.
+- I am master and PhD superisors.
 - I have focused on the structural analysis, dynamic analysis and fatigue analysis of subsea riser, umbilical and flowlines (SURF) for 10 years.
 - My experience in engineering work (IKM Ocean Design AS, Norway, 2013-2014), PhD study in NTNU (Norway, 2014-2018) and research work in HUST (China, 2019-present) afforded me a well-rounded skill set including sound theoretical foundation, numerical analysis experience and precious experimental knowledge about the structural analysis of SURF.
 - More than 11 papers were published at top international journal and conferences with total <a href='[https://scholar.google.com/citations?user=ELLYAXQAAAAJ](https://scholar.google.com/citations?user=ELLYAXQAAAAJ&hl=zh-CN&oi=ao)'>google scholar citations <strong><span id='total_cit'>100+</span></strong>.
