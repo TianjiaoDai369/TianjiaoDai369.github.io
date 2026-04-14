@@ -69,7 +69,7 @@ Project: Dynamic umbilical JIP
 
 
 
-During working in [Huazhong university of science and technology](https://www.hust.edu.cn), 11 projects have been granted as follows: 
+During working in [Huazhong university of science and technology](https://www.hust.edu.cn), 12 projects have been granted as follows: 
 
 5 projects were supported by national levels competitive research grants：
 
@@ -82,18 +82,18 @@ During working in [Huazhong university of science and technology](https://www.hu
 - Propose a new global configuration design for reducing the power cable response in shallow water.
 
 
-6 projects were supported by industry, city government or by state key laboratories at universities：
+7 projects were supported by industry, city government or by state key laboratories at universities：
 
 1. Research and Application of Key Technologies for Subsea Wet-Mate Connectors and Bend Restrictors of Special Marine Cables (a Major Special Project of the Ningbo Municipal Science and Technology Bureau) (2022-2024）,20W
 2. Nonbonded flexible riser's structural failure analysis (China Offshore Engineering & Technology Co., Ltd, Shanghai, China) (2025-2026)，72W
-2. Power cable's structural analysis (State Grid Corporation of China）（2025-2026），30W
-3. Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST) (2019-2021) ,15W
+3. Power cable's structural analysis (State Grid Corporation of China）（2025-2026），30W
+4. Structural analysis of flexible pipes applied in oil & gas industry (Fundamental Research Funds for the Central Universities, HUST) (2019-2021) ,15W
 - Responsible to develop a new method to consider fretting fatigue in the conventional fatigue life.
-4. Research on Fretting Wear in Cables for Wind Farms (State Key Laboratory of Hydraulic Engineering Intelligent Construction and Operation, Tianjin University) (2022-2025) , 6W
-5. Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) (2021-2022), 10W
+5. Research on Fretting Wear in Cables for Wind Farms (State Key Laboratory of Hydraulic Engineering Intelligent Construction and Operation, Tianjin University) (2022-2025) , 6W
+6. Fatigue life prediction of nonbonded flexible pipe applied in Xijiang (CNOOC, China) (2021-2022), 10W
 - Perform global response analysis of flexible pipe under dynamic motion of FPSO and combined wave and current load conditions.
 - Develop a new method for the pipe fatigue life assessment when the annulus layer is wet or fully fulfilled with fluid, resulting in significant numerical analysis computation time saving.
-6. Fatigue damage prediction of nonbonded flexible pipe applied in Sabah (Wudi Hizen Flexible Pipe Manufacturing Co., Ltd) （2022）,19W
+7. Fatigue damage prediction of nonbonded flexible pipe applied in Sabah (Wudi Hizen Flexible Pipe Manufacturing Co., Ltd) （2022）,19W
 - Communicate with flexible pipe supplier and determine the project scope
 - Support clients with more flexible numerical methodologies, resulting in significant cost saving and boosting efficiency for the experimental verification of fatigue damage prediction
 
