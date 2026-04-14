@@ -3,12 +3,22 @@ main:
   - title: "About Me"
     url: "/#about-me"
     
+  - title: "Projects"
+    url: "/#-Projects"
     
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Educations"
+    
+ - title: "Educations"
     url: "/#-educations"
 
-  - title: "Work"
+    
+  - title: "Works"
     url: "/#-Works"
+
+   - title: " Academic Service"
+    url: "/#- Academic Service"
+
+
+  - title: "Bachelor and master students"
+    url: "/#-Bachelor and master students"
