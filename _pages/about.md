@@ -67,8 +67,7 @@ Project: Dynamic umbilical JIP
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HUST.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 During working in [Huazhong university of science and technology](https://www.hust.edu.cn), 11 projects have been granted as follows: 
 
@@ -104,7 +103,7 @@ During working in [Huazhong university of science and technology](https://www.hu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/publication4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HUST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Isogeometric contact analysis in subsea umbilical and power cables](https://www.sciencedirect.com/science/article/abs/pii/S0951833925001832)
