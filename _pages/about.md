@@ -70,7 +70,7 @@ Project: Dynamic umbilical JIP
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HUST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-During working in [Huazhong university of science and technology](https://www.hust.edu.cn), 9 projects have been granted as follows: 
+During working in [Huazhong university of science and technology](https://www.hust.edu.cn), 11 projects have been granted as follows: 
 
 5 projects were supported by national levels competitive research grants：
 
