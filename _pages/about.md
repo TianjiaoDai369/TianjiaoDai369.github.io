@@ -314,13 +314,13 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 # 🧑‍🏫 Bachelor and master students
 
 Undergraduate Thesis Supervision:
-June 2020: Jiawen Zou, Tianwei Liang, Zhengxin Li, Naval Architecture and Ocean Engineering, Class of 2016
-June 2021: Shuo Yang, Qi Lu, Guining Zhan, Naval Architecture and Ocean Engineering, Class of 2017
-June 2022: Yifan Chen, Hao Chen, Tao Zeng, Kun Wang, Naval Architecture and Ocean Engineering, Class of 2018
-June 2023: Yidi Shui, Naval Architecture and Ocean Engineering, Class of 2019
-June 2024: Nanqian Li, Yangkang Deng, Jie Chen, Naval Architecture and Ocean Engineering, Class of 2020
-June 2025: Yilong Li, Tianyu Feng, [Name to be added], Naval Architecture and Ocean Engineering, Class of 2021
-June 2026: Yu Mao, [Name to be added], Naval Architecture and Ocean Engineering, Class of 2022
+- June 2020: Jiawen Zou, Tianwei Liang, Zhengxin Li, Naval Architecture and Ocean Engineering, Class of 2016
+- June 2021: Shuo Yang, Qi Lu, Guining Zhan, Naval Architecture and Ocean Engineering, Class of 2017
+- June 2022: Yifan Chen, Hao Chen, Tao Zeng, Kun Wang, Naval Architecture and Ocean Engineering, Class of 2018
+- June 2023: Yidi Shui, Naval Architecture and Ocean Engineering, Class of 2019
+- June 2024: Nanqian Li, Yangkang Deng, Jie Chen, Naval Architecture and Ocean Engineering, Class of 2020
+- June 2025: Yilong Li, Tianyu Feng, Juxian Ding, Naval Architecture and Ocean Engineering, Class of 2021
+- June 2026: Yu Mao, Tianen Shan, Naval Architecture and Ocean Engineering, Class of 2022
 
 Master Thesis Supervision:
 1. Pengjie Li
