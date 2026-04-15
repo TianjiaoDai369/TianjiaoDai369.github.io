@@ -316,43 +316,43 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 Undergraduate Thesis Supervision:
 
 - June 2020: Jiawen Zou, Tianwei Liang, Zhengxin Li, Naval Architecture and Ocean Engineering, Class of 2016
-- 
+  
 - June 2021: Shuo Yang, Qi Lu, Guining Zhan, Naval Architecture and Ocean Engineering, Class of 2017
-- 
+  
 - June 2022: Yifan Chen, Hao Chen, Tao Zeng, Kun Wang, Naval Architecture and Ocean Engineering, Class of 2018
-- 
+  
 - June 2023: Yidi Shui, Naval Architecture and Ocean Engineering, Class of 2019
-- 
+  
 - June 2024: Nanqian Li, Yangkang Deng, Jie Chen, Naval Architecture and Ocean Engineering, Class of 2020
-- 
+  
 - June 2025: Yilong Li, Tianyu Feng, Juxian Ding, Naval Architecture and Ocean Engineering, Class of 2021
-- 
+  
 - June 2026: Yu Mao, Tianen Shan, Naval Architecture and Ocean Engineering, Class of 2022
 
 Master Thesis Supervision:
 1. Pengjie Li
-supervised from 2019-2021, master thesis: "Fatigue Life Assessment of the Non-bonded Flexible Riser"
-current employer: "Zhanjiang Bay Laboratory“ (Zhanjiang, China)
+- supervised from 2019-2021, master thesis: "Fatigue Life Assessment of the Non-bonded Flexible Riser"
+- current employer: "Zhanjiang Bay Laboratory“ (Zhanjiang, China)
 
 2. Shuaiqi Liu
-supervised from 2020-2022, master thesis: "Strength analysis for dynamic umbilical in deep water"
-current employer: "Maruoff Shanghai" (Shanghai, China)
+- supervised from 2020-2022, master thesis: "Strength analysis for dynamic umbilical in deep water"
+- current employer: "Maruoff Shanghai" (Shanghai, China)
 
 3. Shuo Yang
-supervised from 2021-2024, master thesis:"Isogeometric contact analysis for dynamic umbilical and power cables in deep water",
-current employer: "Zoomlion Heavy Industry Science & Technology Co., Ltd.” (Changsha, China)
+- supervised from 2021-2024, master thesis:"Isogeometric contact analysis for dynamic umbilical and power cables in deep water",
+- current employer: "Zoomlion Heavy Industry Science & Technology Co., Ltd.” (Changsha, China)
 
 4. Jianxuan Zhang
-supervised from 2024-current, Doctoral thesis:"Friction analysis for flexible rise and umbilicals"
+- supervised from 2024-current, Doctoral thesis:"Friction analysis for flexible rise and umbilicals"
 
 5. Bin Zheng
-supervised from 2023-current, master thesis:"Wet collapse of pressure armor in nonbonded flexible riser"
+- supervised from 2023-current, master thesis:"Wet collapse of pressure armor in nonbonded flexible riser"
 
 6. Shuwan Li
-supervised from 2024-current, master thesis:"Buckling analysis of tensile armors in nonbonded flexible riser"
+- supervised from 2024-current, master thesis:"Buckling analysis of tensile armors in nonbonded flexible riser"
 
 7. Zheng Liu
-supervised from 2025-current, master thesis:"Endfitting design of power cables"
+- supervised from 2025-current, master thesis:"Endfitting design of power cables"
 
 8. Xiaolu Jing
-supervised from 2025-current, master thesis:"Endfitting design of bundled pipe-cable system"
+- supervised from 2025-current, master thesis:"Endfitting design of bundled pipe-cable system"
