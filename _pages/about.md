@@ -295,7 +295,7 @@ Weixiong Jiang, Kaiwei Yu, Jun Wu, **Tianjiao Dai**, Haiping Zhu
 
 
 # 📖 Educations
-- *2011.06 - 2013.06*, PhD, [Norwegian University of Science and Technology](https://www.ntnu.edu), Supervisor [Svein Sævik](https://www.ntnu.edu/employees/svein.savik), [Naiquan Ye](https://www.sintef.no/en/all-employees/employee/naiquan.ye/)
+- *2014.08 - 2018.12*, PhD, [Norwegian University of Science and Technology](https://www.ntnu.edu), Supervisor [Svein Sævik](https://www.ntnu.edu/employees/svein.savik), [Naiquan Ye](https://www.sintef.no/en/all-employees/employee/naiquan.ye/)
 - *2011.06 - 2013.06*, Master of science,[Norwegian University of Science and Technology](https://www.ntnu.edu),Supervisor [Svein Sævik](https://www.ntnu.edu/employees/svein.savik)
 - *2007.08 - 2011.06*, Bachelor, [Harbin Engineering University](http://www.hrbeu.edu.cn)
 
