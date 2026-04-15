@@ -9,14 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
     
- - title: "Educations"
+  - title: "Educations"
     url: "/#-educations"
 
     
   - title: "Works"
     url: "/#-Works"
 
-   - title: " Academic Service"
+  - title: " Academic Service"
     url: "/#- Academic Service"
 
 
