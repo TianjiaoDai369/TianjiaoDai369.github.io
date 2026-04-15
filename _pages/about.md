@@ -342,7 +342,7 @@ Master Thesis Supervision:
 - supervised from 2021-2024, master thesis:"Isogeometric contact analysis for dynamic umbilical and power cables in deep water",
 - current employer: "Zoomlion Heavy Industry Science & Technology Co., Ltd.” (Changsha, China)
 
-4. Jianxuan Zhang
+4. Jiaxuan Zhang
 - supervised from 2024-current, Doctoral thesis:"Friction analysis for flexible rise and umbilicals"
 
 5. Bin Zheng
